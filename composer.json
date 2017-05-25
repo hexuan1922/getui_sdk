@@ -1,6 +1,6 @@
 {
     "name": "hexuan1922/getui_sdk",
-    "type": "library,composer-plugin",
+    "type": "composer-plugin",
     "license": "mit",
     "authors": [
         {
