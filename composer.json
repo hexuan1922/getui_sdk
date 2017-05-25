@@ -1,0 +1,22 @@
+{
+    "name": "hexuan1922/getui_sdk",
+    "type": "library,composer-plugin",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "hejigui",
+            "email": "hejigui@bftv.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GeTui\\": "src/"
+        }
+    },
+    "minimum-stability":"stable",
+    "repositories": [
+        {"type": "composer", "url": "https://packagist.phpcomposer.com"},
+        {"packagist": false}
+    ]
+}
